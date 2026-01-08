@@ -1,0 +1,304 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "30688006-ba02-497b-8463-27aa41c55798": {
+      "type": "image-banner",
+      "blocks": {
+        "template--15625744351415__30688006-ba02-497b-8463-27aa41c55798-1665387915d9af8014-0": {
+          "type": "heading",
+          "disabled": true,
+          "settings": {
+            "heading": "Image banner",
+            "heading_size": "h1"
+          }
+        },
+        "template--15625744351415__30688006-ba02-497b-8463-27aa41c55798-1665387915d9af8014-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "template--15625744351415__30688006-ba02-497b-8463-27aa41c55798-1665387915d9af8014-2": {
+          "type": "buttons",
+          "disabled": true,
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--15625744351415__30688006-ba02-497b-8463-27aa41c55798-1665387915d9af8014-0",
+        "template--15625744351415__30688006-ba02-497b-8463-27aa41c55798-1665387915d9af8014-1",
+        "template--15625744351415__30688006-ba02-497b-8463-27aa41c55798-1665387915d9af8014-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HISTORY-WEB-large.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "large",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1664347683b6b646a1": {
+      "type": "image-banner",
+      "blocks": {
+        "1664347682038739fa-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "1664347682038739fa-1": {
+          "type": "text",
+          "settings": {
+            "text": "",
+            "text_style": "body"
+          }
+        },
+        "1664347682038739fa-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "1664347682038739fa-0",
+        "1664347682038739fa-1",
+        "1664347682038739fa-2"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/HISTORY-WEB-large-2.jpg",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "adapt_height_first_image": true,
+        "desktop_content_position": "middle-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": true,
+        "show_text_below": true
+      }
+    },
+    "1664347672f2e4ea71": {
+      "type": "slideshow",
+      "blocks": {
+        "ba38132f-ba78-4e5c-86dd-6e412f8fb48a": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/HISTORY-WEB-large-3.jpg",
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "top-left",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "accent-1",
+            "text_alignment_mobile": "left"
+          }
+        }
+      },
+      "block_order": [
+        "ba38132f-ba78-4e5c-86dd-6e412f8fb48a"
+      ],
+      "disabled": true,
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_with_text_FxTzHX": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Ypim93": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rawtype Riot Flagship - Dipatiukur",
+            "heading_size": "h2"
+          }
+        },
+        "text_zYJAcE": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jl. Dipati Ukur No.33, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40164<\/p><p>Monday - Sunday 10am - 9pm<br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_6EimTM": {
+          "type": "button",
+          "settings": {
+            "button_label": "Maps",
+            "button_link": "https:\/\/maps.app.goo.gl\/D95QQwSXEctmu8rm6"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Ypim93",
+        "text_zYJAcE",
+        "button_6EimTM"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-04_at_16.15.44.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image_with_text_wmntUH": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_Mem8Hp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Rawtype Riot Flagship - HQ",
+            "heading_size": "h2"
+          }
+        },
+        "text_VBJPwR": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Jl. Martanegara No.40, Turangga, Kec. Lengkong, Kota Bandung, Jawa Barat 40264<\/p><p>Monday - Sunday 10am - 9pm<br\/><\/p>",
+            "text_style": "body"
+          }
+        },
+        "button_4BDHqK": {
+          "type": "button",
+          "settings": {
+            "button_label": "Maps",
+            "button_link": "https:\/\/maps.app.goo.gl\/CVXaHRe6JUQ6CkQB9"
+          }
+        }
+      },
+      "block_order": [
+        "heading_Mem8Hp",
+        "text_VBJPwR",
+        "button_4BDHqK"
+      ],
+      "disabled": true,
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-04_at_16.15.44_1.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "multicolumn_pFxGLV": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fHkB6W": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-04_at_16.15.44.jpg",
+            "title": "Rawtype Riot Flagship - Dipatiukur",
+            "text": "<p>Jl. Dipati Ukur No.33, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40164<\/p><p>Monday - Sunday 10am - 9pm<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zgjpVU": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-04_at_16.15.44_1.jpg",
+            "title": "Rawtype Riot Flagship - HQ",
+            "text": "<p>Jl. Martanegara No.40, Turangga, Kec. Lengkong, Kota Bandung, Jawa Barat 40264<\/p><p>Monday - Sunday 10am - 9pm<\/p>",
+            "link_label": "",
+            "link": "https:\/\/maps.app.goo.gl\/CVXaHRe6JUQ6CkQB9"
+          }
+        },
+        "column_ykCMCa": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/IMG_0960.heic",
+            "title": "Rawtype Riot Flagship - Bahureksa",
+            "text": "<p>Jl. Bahureksa no. 25. Citarum, Bandung Wetan, Bandung City, West Java 40115<\/p><p>Monday - Sunday 10am - 9pm<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_fHkB6W",
+        "column_zgjpVU",
+        "column_ykCMCa"
+      ],
+      "settings": {
+        "title": "STORES",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "30688006-ba02-497b-8463-27aa41c55798",
+    "1664347683b6b646a1",
+    "1664347672f2e4ea71",
+    "image_with_text_FxTzHX",
+    "image_with_text_wmntUH",
+    "multicolumn_pFxGLV"
+  ]
+}
