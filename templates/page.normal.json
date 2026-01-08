@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "main": {
@@ -47,7 +56,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/HISTORY-WEB-large.jpg",
+        "image": "shopify://shop_images/HISTORY-WEB-large.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": true,
@@ -96,7 +105,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/HISTORY-WEB-large-2.jpg",
+        "image": "shopify://shop_images/HISTORY-WEB-large-2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -115,7 +124,7 @@
         "ba38132f-ba78-4e5c-86dd-6e412f8fb48a": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/HISTORY-WEB-large-3.jpg",
+            "image": "shopify://shop_images/HISTORY-WEB-large-3.jpg",
             "heading": "",
             "heading_size": "h2",
             "subheading": "",
@@ -158,7 +167,7 @@
         "text_zYJAcE": {
           "type": "text",
           "settings": {
-            "text": "<p>Jl. Dipati Ukur No.33, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40164<\/p><p>Monday - Sunday 10am - 9pm<br\/><\/p>",
+            "text": "<p>Jl. Dipati Ukur No.33, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40164</p><p>Monday - Sunday 10am - 9pm<br/></p>",
             "text_style": "body"
           }
         },
@@ -166,7 +175,7 @@
           "type": "button",
           "settings": {
             "button_label": "Maps",
-            "button_link": "https:\/\/maps.app.goo.gl\/D95QQwSXEctmu8rm6"
+            "button_link": "https://maps.app.goo.gl/D95QQwSXEctmu8rm6"
           }
         }
       },
@@ -177,7 +186,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-04_at_16.15.44.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2024-03-04_at_16.15.44.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -203,7 +212,7 @@
         "text_VBJPwR": {
           "type": "text",
           "settings": {
-            "text": "<p>Jl. Martanegara No.40, Turangga, Kec. Lengkong, Kota Bandung, Jawa Barat 40264<\/p><p>Monday - Sunday 10am - 9pm<br\/><\/p>",
+            "text": "<p>Jl. Martanegara No.40, Turangga, Kec. Lengkong, Kota Bandung, Jawa Barat 40264</p><p>Monday - Sunday 10am - 9pm<br/></p>",
             "text_style": "body"
           }
         },
@@ -211,7 +220,7 @@
           "type": "button",
           "settings": {
             "button_label": "Maps",
-            "button_link": "https:\/\/maps.app.goo.gl\/CVXaHRe6JUQ6CkQB9"
+            "button_link": "https://maps.app.goo.gl/CVXaHRe6JUQ6CkQB9"
           }
         }
       },
@@ -222,7 +231,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-04_at_16.15.44_1.jpg",
+        "image": "shopify://shop_images/WhatsApp_Image_2024-03-04_at_16.15.44_1.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
@@ -240,10 +249,11 @@
       "blocks": {
         "column_fHkB6W": {
           "type": "column",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-04_at_16.15.44.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2024-03-04_at_16.15.44.jpg",
             "title": "Rawtype Riot Flagship - Dipatiukur",
-            "text": "<p>Jl. Dipati Ukur No.33, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40164<\/p><p>Monday - Sunday 10am - 9pm<\/p>",
+            "text": "<p>Jl. Dipati Ukur No.33, Lebakgede, Kecamatan Coblong, Kota Bandung, Jawa Barat 40164</p><p>Monday - Sunday 10am - 9pm</p>",
             "link_label": "",
             "link": ""
           }
@@ -251,19 +261,19 @@
         "column_zgjpVU": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/WhatsApp_Image_2024-03-04_at_16.15.44_1.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2024-03-04_at_16.15.44_1.jpg",
             "title": "Rawtype Riot Flagship - HQ",
-            "text": "<p>Jl. Martanegara No.40, Turangga, Kec. Lengkong, Kota Bandung, Jawa Barat 40264<\/p><p>Monday - Sunday 10am - 9pm<\/p>",
+            "text": "<p>Jl. Martanegara No.40, Turangga, Kec. Lengkong, Kota Bandung, Jawa Barat 40264</p><p>Monday - Sunday 10am - 9pm</p>",
             "link_label": "",
-            "link": "https:\/\/maps.app.goo.gl\/CVXaHRe6JUQ6CkQB9"
+            "link": "https://maps.app.goo.gl/CVXaHRe6JUQ6CkQB9"
           }
         },
         "column_ykCMCa": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/IMG_0960.heic",
+            "image": "shopify://shop_images/IMG_0960.heic",
             "title": "Rawtype Riot Flagship - Bahureksa",
-            "text": "<p>Jl. Bahureksa no. 25. Citarum, Bandung Wetan, Bandung City, West Java 40115<\/p><p>Monday - Sunday 10am - 9pm<\/p>",
+            "text": "<p>Jl. Bahureksa no. 25. Citarum, Bandung Wetan, Bandung City, West Java 40115</p><p>Monday - Sunday 10am - 9pm</p>",
             "link_label": "",
             "link": ""
           }
