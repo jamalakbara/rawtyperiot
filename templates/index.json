@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "video_bakground_XCeV3M": {
@@ -6,8 +15,8 @@
         "video_tQt3Lj": {
           "type": "video",
           "settings": {
-            "video_link": "https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/a21589cded5847b9904966b938121dbe.mp4",
-            "video_image": "shopify:\/\/shop_images\/RWB_WEB.jpg",
+            "video_link": "https://cdn.shopify.com/videos/c/o/v/a21589cded5847b9904966b938121dbe.mp4",
+            "video_image": "shopify://shop_images/RWB_WEB.jpg",
             "video_link_mobile": "",
             "overlay_opacity": 0,
             "title": "",
@@ -68,14 +77,16 @@
         "ai_gen_block_86377a7_FNy6NX": {
           "type": "ai_gen_block_86377a7",
           "settings": {
-            "image_left": "shopify:\/\/shop_images\/WB_NEW_ARRIVAL.jpg",
-            "link_left": "shopify:\/\/collections\/new-arrival",
-            "image_right": "shopify:\/\/shop_images\/WB_NEW_ARRIVAL_2.jpg",
-            "link_right": "shopify:\/\/collections\/new-arrival",
+            "image_left": "shopify://shop_images/WB_NEW_ARRIVAL.jpg",
+            "text_left": "New Arrival",
+            "link_left": "shopify://collections/new-arrival",
+            "image_right": "shopify://shop_images/WB_NEW_ARRIVAL_2.jpg",
+            "text_right": "Shop All",
+            "link_right": "shopify://collections/new-arrival",
             "gap": 8,
             "padding_top": 8,
             "padding_bottom": 8,
-            "aspect_ratio": "3 \/ 4",
+            "aspect_ratio": "3 / 4",
             "mobile_layout": "row"
           },
           "blocks": {}
@@ -124,7 +135,7 @@
         "template--15625744253111__af35f949-66b8-4733-a2e1-9a1bb4bdb7c1-16698632519e0ccdb8-2"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/WB_NEW_MILITARY.jpg",
+        "image": "shopify://shop_images/WB_NEW_MILITARY.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
         "adapt_height_first_image": true,
@@ -143,14 +154,16 @@
         "ai_gen_block_86377a7_XCMjnA": {
           "type": "ai_gen_block_86377a7",
           "settings": {
-            "image_left": "shopify:\/\/shop_images\/WB_NEW_ALL_1.jpg",
-            "link_left": "shopify:\/\/collections\/shop-all",
-            "image_right": "shopify:\/\/shop_images\/WB_NEW_ACC.jpg",
-            "link_right": "shopify:\/\/collections\/accessories-1",
+            "image_left": "shopify://shop_images/WB_NEW_ALL_1.jpg",
+            "text_left": "",
+            "link_left": "shopify://collections/shop-all",
+            "image_right": "shopify://shop_images/WB_NEW_ACC.jpg",
+            "text_right": "",
+            "link_right": "shopify://collections/accessories-1",
             "gap": 8,
             "padding_top": 8,
             "padding_bottom": 8,
-            "aspect_ratio": "3 \/ 4",
+            "aspect_ratio": "3 / 4",
             "mobile_layout": "row"
           },
           "blocks": {}
@@ -167,7 +180,7 @@
         "category_bCRmdW": {
           "type": "category",
           "settings": {
-            "category_img": "shopify:\/\/shop_images\/WB_NEW_ARRIVAL.jpg",
+            "category_img": "shopify://shop_images/WB_NEW_ARRIVAL.jpg",
             "category_title": "Title",
             "category_target": ""
           }
@@ -175,7 +188,7 @@
         "category_gN7ahz": {
           "type": "category",
           "settings": {
-            "category_img": "shopify:\/\/shop_images\/WB_NEW_ARRIVAL_2.jpg",
+            "category_img": "shopify://shop_images/WB_NEW_ARRIVAL_2.jpg",
             "category_title": "Title",
             "category_target": ""
           }
@@ -199,12 +212,12 @@
         "slide_THzqJJ": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/RWB_WEB.jpg",
+            "image": "shopify://shop_images/RWB_WEB.jpg",
             "heading": "",
             "heading_size": "h0",
             "subheading": "",
             "button_label": "",
-            "link": "shopify:\/\/products\/legendary-varsity-type-7",
+            "link": "shopify://products/legendary-varsity-type-7",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -218,12 +231,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/SUKAJAN_WEB.jpg",
+            "image": "shopify://shop_images/SUKAJAN_WEB.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "BUY NOW",
-            "link": "shopify:\/\/products\/dragon-cathead-souvenir-jacket-black",
+            "link": "shopify://products/dragon-cathead-souvenir-jacket-black",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -237,12 +250,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/FREE_ACC_1.jpg",
+            "image": "shopify://shop_images/FREE_ACC_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "BUY NOW",
-            "link": "shopify:\/\/products\/tomrace-leather-jacket",
+            "link": "shopify://products/tomrace-leather-jacket",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -256,12 +269,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/KITTY_RIOT_2.jpg",
+            "image": "shopify://shop_images/KITTY_RIOT_2.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "BUY NOW",
-            "link": "shopify:\/\/products\/beatboys-bomber-navy",
+            "link": "shopify://products/beatboys-bomber-navy",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -275,12 +288,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/BB_X_RTR_1.jpg",
+            "image": "shopify://shop_images/BB_X_RTR_1.jpg",
             "heading": "",
             "heading_size": "h1",
             "subheading": "",
             "button_label": "BUY NOW",
-            "link": "shopify:\/\/products\/beatboys-work-jacket-maroon",
+            "link": "shopify://products/beatboys-work-jacket-maroon",
             "button_style_secondary": false,
             "box_align": "middle-center",
             "show_text_box": false,
@@ -333,7 +346,7 @@
           "disabled": true,
           "settings": {
             "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
+            "button_link_1": "shopify://collections/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
@@ -348,7 +361,7 @@
       ],
       "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/BANNER_WEBSITE_copy.jpg",
+        "image": "shopify://shop_images/BANNER_WEBSITE_copy.jpg",
         "image_overlay_opacity": 0,
         "image_height": "large",
         "adapt_height_first_image": true,
@@ -367,14 +380,14 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "<p>WORK & SHOP RIOT MADE<\/p>",
+            "heading": "<p>WORK & SHOP RIOT MADE</p>",
             "heading_size": "h0"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Foreau Of Rawtyperiot Squad Departement Contract No. 88\/18 RAWTYPE RIOT Genuine Art & Co. IND.<\/p>"
+            "text": "<p>Foreau Of Rawtyperiot Squad Departement Contract No. 88/18 RAWTYPE RIOT Genuine Art & Co. IND.</p>"
           }
         }
       },
