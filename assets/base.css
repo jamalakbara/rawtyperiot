@@ -3257,9 +3257,9 @@ body:not(.template-index) .header-wrapper {
   width: 100% !important;
 }
 
-/* Reset main content spacing to prevent overlap */
+/* Reset main content spacing to prevent overlap, but add gap */
 body:not(.template-index) #MainContent {
-  margin-top: 0 !important;
+  margin-top: 10rem !important;
   padding-top: 0 !important;
 }
 
@@ -3298,4 +3298,10 @@ body:not(.template-index) .header__heading-logo {
 .template-index .header__submenu .header__menu-item,
 .template-index .header__submenu .header__menu-item span {
   color: rgb(var(--color-foreground)) !important;
+}
+
+/* Hide Atome payment widget */
+.apaylater-widget,
+.atome-widget {
+  display: none !important;
 }
