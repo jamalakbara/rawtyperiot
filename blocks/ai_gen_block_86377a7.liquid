@@ -74,6 +74,47 @@
     pointer-events: none;
   }
 
+  .ai-split-images-text-overlay-{{ ai_gen_id }} {
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+    width: auto;
+    text-align: left;
+    pointer-events: none;
+    z-index: 2;
+  }
+
+  .ai-split-images-text-content-{{ ai_gen_id }} {
+    display: inline-block;
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: none;
+    letter-spacing: 0.8px;
+    position: relative;
+    padding-bottom: 3px;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+  }
+
+  .ai-split-images-text-content-{{ ai_gen_id }}::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 1px;
+    bottom: 0;
+    left: 0;
+    background-color: #fff;
+    transform-origin: bottom right;
+    transition: transform 0.4s cubic-bezier(0.22, 1, 0.36, 1);
+    box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+  }
+
+  .ai-split-images-link-{{ ai_gen_id }}:hover .ai-split-images-text-content-{{ ai_gen_id }}::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+  }
+
   @media screen and (max-width: 749px) {
     .ai-split-images-container-{{ ai_gen_id }} {
       flex-direction: {{ block.settings.mobile_layout }};
@@ -106,6 +147,15 @@
             </div>
           </div>
         {% endif %}
+        
+        {% if block.settings.text_left != blank %}
+          <div class="ai-split-images-text-overlay-{{ ai_gen_id }}">
+            <span class="ai-split-images-text-content-{{ ai_gen_id }}">
+              {{ block.settings.text_left | escape }}
+            </span>
+          </div>
+        {% endif %}
+
       {% if block.settings.link_left != blank %}
         </a>
       {% else %}
@@ -136,6 +186,15 @@
             </div>
           </div>
         {% endif %}
+
+        {% if block.settings.text_right != blank %}
+          <div class="ai-split-images-text-overlay-{{ ai_gen_id }}">
+            <span class="ai-split-images-text-content-{{ ai_gen_id }}">
+              {{ block.settings.text_right | escape }}
+            </span>
+          </div>
+        {% endif %}
+
       {% if block.settings.link_right != blank %}
         </a>
       {% else %}
@@ -171,6 +230,12 @@
       "label": "Image"
     },
     {
+      "type": "text",
+      "id": "text_left",
+      "label": "Collection Name",
+      "default": "Collection Name"
+    },
+    {
       "type": "url",
       "id": "link_left",
       "label": "Link"
@@ -183,6 +248,12 @@
       "type": "image_picker",
       "id": "image_right",
       "label": "Image"
+    },
+    {
+      "type": "text",
+      "id": "text_right",
+      "label": "Collection Name",
+      "default": "Collection Name"
     },
     {
       "type": "url",

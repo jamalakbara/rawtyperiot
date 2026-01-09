@@ -1,3 +1,21 @@
+{%- assign has_announcement = false -%}
+{%- for block in section.blocks -%}
+  {%- if block.settings.text != blank -%}
+    {%- assign has_announcement = true -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- unless has_announcement -%}
+  <style>
+    #shopify-section-announcement-bar {
+      display: none !important;
+      margin: 0 !important;
+      padding: 0 !important;
+      height: 0 !important;
+    }
+  </style>
+{%- endunless -%}
+
 {%- for block in section.blocks -%}
   {%- case block.type -%}
     {%- when 'announcement' -%}
