@@ -198,6 +198,7 @@
           },
           "footer-2": {
             "type": "text",
+            "disabled": true,
             "settings": {
               "heading": "Our mission",
               "subtext": "<p>We prioritize organic materials for sustainability, ensuring top-notch quality with minimal environmental impact while showcasing exceptional design and craftsmanship, reflecting our dedication to excellence and eco-consciousness.</p>"
