@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "colors_solid_button_labels": "#ffffff",
@@ -108,21 +117,21 @@
     "social_twitter_link": "",
     "social_facebook_link": "",
     "social_pinterest_link": "",
-    "social_instagram_link": "https:\/\/www.instagram.com\/rawtype_riot\/?hl=id",
-    "social_tiktok_link": "https:\/\/www.tiktok.com\/@rawtyperiot",
+    "social_instagram_link": "https://www.instagram.com/rawtype_riot/?hl=id",
+    "social_tiktok_link": "https://www.tiktok.com/@rawtyperiot",
     "social_tumblr_link": "",
     "social_snapchat_link": "",
-    "social_youtube_link": "https:\/\/www.youtube.com\/channel\/UC5_1Gu0NK1vbITNfHOac54g",
+    "social_youtube_link": "https://www.youtube.com/channel/UC5_1Gu0NK1vbITNfHOac54g",
     "social_vimeo_link": "",
     "predictive_search_enabled": false,
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
-    "favicon": "shopify:\/\/shop_images\/logo_rtr.png",
+    "favicon": "shopify://shop_images/logo_rtr.png",
     "currency_code_enabled": true,
     "cart_type": "notification",
     "show_vendor": false,
     "show_cart_note": false,
-    "checkout_logo_image": "shopify:\/\/shop_images\/RTR_BLACK.png",
+    "checkout_logo_image": "shopify://shop_images/RTR_BLACK.png",
     "checkout_logo_size": "small",
     "sections": {
       "announcement-bar": {
@@ -135,7 +144,7 @@
               "text": "PAYDAY SALE UP TO 50% OFF!",
               "text_alignment": "center",
               "color_scheme": "accent-1",
-              "link": "shopify:\/\/collections\/sale"
+              "link": "shopify://collections/sale"
             }
           },
           "announcement_TbL3r8": {
@@ -160,11 +169,11 @@
         "custom_css": [
           "header-wrapper {position: absolute !important; width: 100%; background: transparent !important; border-bottom: none !important; box-shadow: none !important;}",
           ".header {background-color: transparent !important;}",
-          " \/* Memastikan video ditarik ke paling atas *\/#MainContent .section-video-background-padding {padding-top: 0 !important;}"
+          " /* Memastikan video ditarik ke paling atas */#MainContent .section-video-background-padding {padding-top: 0 !important;}"
         ],
         "settings": {
           "color_scheme": "background-1",
-          "logo": "shopify:\/\/shop_images\/RTR_LOGO_2026.png",
+          "logo": "shopify://shop_images/RTR_LOGO_2026.png",
           "logo_width": 50,
           "logo_position": "middle-left",
           "menu": "main-menu",
@@ -191,7 +200,7 @@
             "type": "text",
             "settings": {
               "heading": "Our mission",
-              "subtext": "<p>We prioritize organic materials for sustainability, ensuring top-notch quality with minimal environmental impact while showcasing exceptional design and craftsmanship, reflecting our dedication to excellence and eco-consciousness.<\/p>"
+              "subtext": "<p>We prioritize organic materials for sustainability, ensuring top-notch quality with minimal environmental impact while showcasing exceptional design and craftsmanship, reflecting our dedication to excellence and eco-consciousness.</p>"
             }
           }
         },
@@ -230,7 +239,7 @@
     "content_for_index": [],
     "blocks": {
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": true,
         "settings": {
           "button_color": "#000000",
@@ -244,7 +253,12 @@
         }
       },
       "3294164036280357830": {
-        "type": "shopify:\/\/apps\/mlv-auto-currency-switcher\/blocks\/mlveda-currencies-head\/92ab730f-097e-4571-b27c-3f449e098ca3",
+        "type": "shopify://apps/mlv-auto-currency-switcher/blocks/mlveda-currencies-head/92ab730f-097e-4571-b27c-3f449e098ca3",
+        "disabled": false,
+        "settings": {}
+      },
+      "1551801274261955848": {
+        "type": "shopify://apps/getbutton-whatsapp-fb-more/blocks/embed/8496319f-de1e-4949-b0de-1602d715f2b0",
         "disabled": false,
         "settings": {}
       }
@@ -430,7 +444,7 @@
               "type": "text",
               "settings": {
                 "heading": "Our mission",
-                "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+                "subtext": "<p>Share contact information, store details, and brand content with your customers.</p>"
               }
             }
           },
@@ -471,9 +485,9 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "\/* Membuat header transparan dan melayang di atas video *\/.section-header {position: absolute; width: 100%; z-index: 2; background: transparent !important; border-bottom: none !important;}",
-      " \/* Menghilangkan bayangan jika ada *\/.header-wrapper {background: transparent !important; border: none !important; box-shadow: none !important;}",
-      " \/* Menyesuaikan warna teks\/logo agar terlihat (Opsional) *\/ \/* Ganti #ffffff dengan warna yang kontras dengan video Anda *\/.header__menu-item,.header__heading-link {color: #ffffff !important;}"
+      "/* Membuat header transparan dan melayang di atas video */.section-header {position: absolute; width: 100%; z-index: 2; background: transparent !important; border-bottom: none !important;}",
+      " /* Menghilangkan bayangan jika ada */.header-wrapper {background: transparent !important; border: none !important; box-shadow: none !important;}",
+      " /* Menyesuaikan warna teks/logo agar terlihat (Opsional) */ /* Ganti #ffffff dengan warna yang kontras dengan video Anda */.header__menu-item,.header__heading-link {color: #ffffff !important;}"
     ]
   }
 }
