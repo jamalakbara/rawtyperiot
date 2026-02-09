@@ -261,9 +261,9 @@
         "column_zgjpVU": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2024-03-04_at_16.15.44_1.jpg",
-            "title": "Rawtype Riot Flagship - HQ",
-            "text": "<p>Jl. Martanegara No.40, Turangga, Kec. Lengkong, Kota Bandung, Jawa Barat 40264</p><p>Monday - Sunday 10am - 9pm</p>",
+            "image": "shopify://shop_images/HQ_RTR.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": "https://maps.app.goo.gl/CVXaHRe6JUQ6CkQB9"
           }
@@ -271,9 +271,9 @@
         "column_ykCMCa": {
           "type": "column",
           "settings": {
-            "image": "shopify://shop_images/IMG_0960.heic",
-            "title": "Rawtype Riot Flagship - Bahureksa",
-            "text": "<p>Jl. Bahureksa no. 25. Citarum, Bandung Wetan, Bandung City, West Java 40115</p><p>Monday - Sunday 10am - 9pm</p>",
+            "image": "shopify://shop_images/FS_RTR.jpg",
+            "title": "",
+            "text": "",
             "link_label": "",
             "link": ""
           }
