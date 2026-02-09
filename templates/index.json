@@ -16,8 +16,9 @@
           "type": "video",
           "settings": {
             "video_link": "https://cdn.shopify.com/videos/c/o/v/7b10489539554a878688a1d519623b59.mp4",
-            "video_image": "shopify://shop_images/RWB_WEB.jpg",
+            "video_image": "shopify://shop_images/LANDSCAPE0.jpg",
             "video_link_mobile": "",
+            "video_image_mobile": "shopify://shop_images/POTRAIT1.jpg",
             "overlay_opacity": 0,
             "title": "",
             "text": "",
