@@ -77,7 +77,7 @@
         "ai_gen_block_86377a7_FNy6NX": {
           "type": "ai_gen_block_86377a7",
           "settings": {
-            "image_left": "shopify://shop_images/WB_NEW_ARRIVAL.jpg",
+            "image_left": "shopify://shop_images/DSC06664_EDIT.jpg",
             "text_left": "New Arrival",
             "link_left": "shopify://collections/new-arrival",
             "image_right": "shopify://shop_images/WB_NEW_ARRIVAL_2.jpg",
@@ -172,6 +172,7 @@
       "block_order": [
         "ai_gen_block_86377a7_XCMjnA"
       ],
+      "disabled": true,
       "settings": {}
     },
     "alternate_new_category_J4jJKR": {
