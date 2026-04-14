@@ -267,22 +267,11 @@
             "link_label": "",
             "link": "https://maps.app.goo.gl/CVXaHRe6JUQ6CkQB9"
           }
-        },
-        "column_ykCMCa": {
-          "type": "column",
-          "settings": {
-            "image": "shopify://shop_images/FS_RTR.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "column_fHkB6W",
-        "column_zgjpVU",
-        "column_ykCMCa"
+        "column_zgjpVU"
       ],
       "settings": {
         "title": "STORES",
