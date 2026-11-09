@@ -174,7 +174,7 @@
         "settings": {
           "color_scheme": "background-1",
           "logo": "shopify://shop_images/RTR_LOGO_EAGLE_BASED.png",
-          "logo_width": 50,
+          "logo_width": 250,
           "logo_position": "middle-left",
           "menu": "main-menu",
           "menu_type_desktop": "dropdown",
