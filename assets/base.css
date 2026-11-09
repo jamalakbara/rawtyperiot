@@ -3275,7 +3275,7 @@ body:not(.template-index) .header__heading-link {
 }
 
 body:not(.template-index) .header__heading-logo {
-  filter: invert(1);
+  filter: none;
 }
 
 /* EXPLICTLY RESTORE HOMEPAGE STYLES */
